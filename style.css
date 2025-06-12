@@ -47,10 +47,10 @@ body{
     font-size: 28px;
     font-weight: 700;
 }
-.container_image{
+.container__image{
     margin: 1em 0 2em 0;
 }
-.container_caixa{
+.container__caixa{
     margin: 0 6em;
 }
 
@@ -59,10 +59,16 @@ body{
 }
 .secundaria{
     align-items: center;
-    margin: 0 10em;
+    margin: 0 15em;
 }
 .descricao__titulo{
     font-weight: 700;
     font-size: 48px;
     margin-bottom: 0.2em;
 }
+
+.secundaria__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+.container__descricao
